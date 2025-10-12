@@ -1,0 +1,7 @@
+1 Zoo
+2 Museum
+3 Legoland
+4 GentingHighland
+5 WaterPark
+6 GardenX
+

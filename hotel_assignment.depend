@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1750408209 source:c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\algo assignment\hotel_assignment\main.c
+	<stdio.h>
+	"hotel_func.h"
+	"Algorithm.h"
+	"Extension.h"
+
+1750407688 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\algo assignment\hotel_assignment\hotel_func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1750407821 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\algo assignment\hotel_assignment\algorithm.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1750407752 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\algo assignment\hotel_assignment\extension.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1750745217 source:c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\main.c
+	<stdio.h>
+	"hotel_func.h"
+	"Algorithm.h"
+	"Extension.h"
+
+1750745217 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\hotel_func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1750745217 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\algorithm.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1750745217 c:\users\user\documents\year 2 (sem 3)\design and analysis of algorithms\code assignment\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\extension.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1751004285 source:c:\users\user\downloads\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\main.c
+	<stdio.h>
+	"hotel_func.h"
+	"Algorithm.h"
+	"Extension.h"
+
+1751004285 c:\users\user\downloads\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\hotel_func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1751004285 c:\users\user\downloads\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\algorithm.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1751004285 c:\users\user\downloads\aia hotel_cst207_groupproject_202504\aia hotel_cst207_groupproject_202504\extension.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
