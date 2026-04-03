@@ -86,9 +86,3 @@ The program includes robust input validation functions:
 * CST209 – Final Project (Hotel & Destination Management System)
 
 ---
-
-### 🧾 License
-
-This project is released for  **educational and academic use only** .
-
-Feel free to modify or extend it for learning purposes.
